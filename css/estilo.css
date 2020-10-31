@@ -3,6 +3,7 @@ body{
     text-align: center;
     font-size: 18px;
     color: green;
+    background-color: indianred;
 }
 .container{
     width: 70%;
